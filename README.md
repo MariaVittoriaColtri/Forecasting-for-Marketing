@@ -63,12 +63,12 @@ Figure 1: Weekly ice tea sales dataset (first 20 weeks of data). <br>
 <img width="193" height="156" alt="Screenshot 2025-10-25 222524" src="https://github.com/user-attachments/assets/6469f1ee-93d5-41f0-9420-ab423b7d6749" /> 
 
 
-Figure 2 : Regression coefficients used for manual prediction in Excel. <br> 
+Figure 2: Regression coefficients used for manual prediction. <br> 
 
 
 <img width="1186" height="624" alt="Screenshot 2025-11-13 174558" src="https://github.com/user-attachments/assets/eaf15dc7-1788-4efc-b614-d6457b64ed86" /> 
 
-Figure 3 – Weekly ice tea sales compared with model predictions and variable contributions. <br> 
+Figure 3: Weekly ice tea sales compared with model predictions and variable contributions. <br> 
 
 This chart shows the weekly ice tea sales compared with the model’s predictions. The orange line represents actual revenue, while the bars reflect the contribution of each variable in the regression formula. The overall alignment between the two trends confirms that the model follows the real sales pattern closely across the year.
 
